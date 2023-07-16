@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hung3a8&label=Profile%20views&color=0e75b6&style=flat" alt="hung3a8" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hung3a8" alt="hung3a8" /></a> </p>
+- 🌱 I’m currently learning **Embedded system and C/C++**
 
 - 📝 I regularly write articles on [https://blog.hung3a8.dev/](https://blog.hung3a8.dev/)
 
+- 💬 Ask me about **Python**
+
+- 📫 How to reach me **hung3a8@gmail.com**
+
 - 📄 Know about my experiences [Soon :tm:](Soon :tm:)
 
-- ⚡ Fun fact **I'm not just a programmer. I'm also a decent cook too. :cook:**
+- ⚡ Fun fact **I'm not just a programmer. I'm also a decent cook: too. :cook:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
