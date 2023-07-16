@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [Soon :tm:](Soon :tm:)
 
-- ⚡ Fun fact **I'm not just a programmer. I'm also a decent cook too. :cook**
+- ⚡ Fun fact **I'm not just a programmer. I'm also a decent cook too. :cook:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
